@@ -1,4 +1,4 @@
-# U-Net-cancer-instance-segmentation-
+# U-Net-cancer-instance-segmentation
 
  https://www.kaggle.com/datasets/andrewmvd/cancer-inst-segmentation-and-classification 에 올라와 있는 데이터 셋에 U-Net으로 instance segmentation을 수행해보았습니다.
  
